@@ -18,7 +18,7 @@ class MyAppState extends State<MyApp> {
   int index = 0;
   var que = [
     {
-      "que": "Which your favourite animal?",
+      "que": "Which  your favourite animal?",
       "answers": ["zebra", "only zebra", "sirf zebra"],
     },
     {
